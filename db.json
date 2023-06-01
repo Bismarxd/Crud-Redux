@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "4"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "2"
+    },
+    {
+      "nombre": "Jugo de Mandarina",
+      "precio": "3",
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de Toronja",
+      "precio": "2",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "2",
+      "id": 5
+    },
+    {
+      "nombre": "tequila",
+      "precio": "50",
+      "id": 6
+    },
+    {
+      "nombre": "bismar",
+      "precio": 300,
+      "id": 7
+    },
+    {
+      "nombre": "kuka",
+      "precio": 280,
+      "id": 8
+    }
+  ]
+}
